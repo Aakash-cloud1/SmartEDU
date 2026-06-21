@@ -1,6 +1,6 @@
-# EduEase
+# SmartEDU
 
-EduEase is a comprehensive educational management system built with PHP and MySQL. It provides tailored dashboards and functionalities for students, teachers, and administrators to streamline academic processes, communication, and record-keeping.
+SmartEDU is a comprehensive educational management system built with PHP and MySQL. It provides tailored dashboards and functionalities for students, teachers, and administrators to streamline academic processes, communication, and record-keeping.
 
 ## Features
 
